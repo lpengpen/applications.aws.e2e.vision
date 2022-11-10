@@ -1,0 +1,6 @@
+rsa
+httplib2
+tensorflow
+protobuf
+tensorflow_hub
+openvino-dev
